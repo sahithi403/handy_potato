@@ -11,7 +11,7 @@ namespace handy_potato
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new RootPage();
         }
 
         protected override void OnStart()
